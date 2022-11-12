@@ -1,0 +1,38 @@
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.exe
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.deps.json
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.runtimeconfig.json
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.runtimeconfig.dev.json
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.dll
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.pdb
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.csprojAssemblyReference.cache
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.AssemblyInfoInputs.cache
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.AssemblyInfo.cs
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.dll
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.pdb
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.genruntimeconfig.cache
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.exe
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.deps.json
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.runtimeconfig.json
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.runtimeconfig.dev.json
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.dll
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.pdb
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.csprojAssemblyReference.cache
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.AssemblyInfoInputs.cache
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.AssemblyInfo.cs
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.dll
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.pdb
+C:\Documents\Education\John Abbott College\Winter 2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.genruntimeconfig.cache
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.exe
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.deps.json
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.runtimeconfig.json
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.runtimeconfig.dev.json
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.dll
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\bin\Debug\netcoreapp3.1\VideoGamePoker.pdb
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.csproj.AssemblyReference.cache
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.AssemblyInfoInputs.cache
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.AssemblyInfo.cs
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.csproj.CoreCompileInputs.cache
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.dll
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.pdb
+C:\Documents\Education\John_Abbott_College\winter_2020\Programming II\Final Project\VideoGamePoker\VideoGamePoker\obj\Debug\netcoreapp3.1\VideoGamePoker.genruntimeconfig.cache
